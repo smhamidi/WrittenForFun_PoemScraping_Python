@@ -1,4 +1,4 @@
-<h1 align="center">PersianPoem Scraping from ganjoor.net</h1>
+<h1 align="center">Scraping The Web For Persian Poems</h1>
 </br>
 <p align="center">
 <img src="./data/PersianPoetsMap.png" alt="PoetsMap"
